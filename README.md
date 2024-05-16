@@ -1,6 +1,6 @@
-### Boas vindas ao meu perfil .🌐.
+### Boas vindas ao meu perfil 🎼
 
-Meu nome é Fabrícia .Campos.
+Meu nome é Fabrícia Dantas
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
@@ -8,6 +8,6 @@ Meu nome é Fabrícia .Campos.
 
 ### Você pode entrar em contato comigo 📫
 
-.@@@.
+fabrivitoriacampos@gmail.com
 
-![](link)
+![](https://media1.tenor.com/m/_sezzmrvxUsAAAAC/turn-around-mia.gif)
